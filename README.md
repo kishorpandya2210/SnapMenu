@@ -19,7 +19,7 @@ If you choose not to use the public url (https://snap-menu.herokuapp.com/), you 
 ### Prerequisites:
 
 - Have Node.js installed (The project is confirmed to work with Node.js version 14.17.3)
-Create the following accounts or alternatively send a message to Madhu Sivapragasam (sivapram@mcmaster.ca) and he can provide the relevant keys needed from these accounts:
+Create the following accounts:
     - Create a cloudinary account at https://cloudinary.com/users/register/free
     - Create a mongodb account and then create a mongodb cluster which will be used as the project database, this can be done at https://www.mongodb.com/cloud/atlas/register/
     - Create a clarifai account at https://portal.clarifai.com/signup
