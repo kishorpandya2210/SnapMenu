@@ -14,7 +14,7 @@ There are two main ways you can install the app, you can either use the public u
 Simply navigate to https://snap-menu.herokuapp.com/. Click on the register tab to create an account or click on the login tab to login to an existing account. After registering/logging in, you can follow the instructions in the about tab to use the application as intended. 
 
 ## Instructions for local setup
-If you choose not to use the public url (https://snap-menu.herokuapp.com/), you can setup the application locally by following these steps. Please keep in mind it is recommended to use the public url since it saves you time from having to create several accounts and setup API keys for each account. If you wish to do the local installation without setting up accounts, please contact Madhu Sivapragasam (sivapram@mcmaster.ca) and he can provide all necessary keys and account information. 
+If you choose not to use the public url (https://snap-menu.herokuapp.com/), you can setup the application locally by following these steps. Please keep in mind it is recommended to use the public url since it saves you time from having to create several accounts and setup API keys for each account. If you wish to do the local installation without setting up accounts, please make sure you have the following prerequisites completed, and then follow the instructions. 
 
 ### Prerequisites:
 
