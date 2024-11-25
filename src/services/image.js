@@ -7,6 +7,7 @@ async function uploadImage(file) {
     data: {},
     errors: [],
   };
+
   try {
     const uploadedImage = await cloudinary.v2.uploader.upload(file.path);
     res.data = {
