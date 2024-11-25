@@ -1,8 +1,6 @@
 # SnapMenu
 
-Team Name: group 09
-
-Team Members: Kishor Pandya, Dhrumil Pandya, Madhu Sivapragasam
+Developers: Kishor Pandya, Dhrumil Pandya, Madhu Sivapragasam
 
 
 This project is a reimplementation of Left (https://github.com/apatronl/Left)
